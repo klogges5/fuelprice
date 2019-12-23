@@ -15,7 +15,6 @@ History Data from [Tankerkoenig History](https://dev.azure.com/tankerkoenig/_git
 - pandas
 - glob
 - math
-- itertools
 - matplotlib.pyplot
 - plotly
 - numpy
